@@ -43,8 +43,10 @@ This is not about giving fellow surfers props after riding a killer wave. Altern
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
--A project manager's responsibilities include planning, executing, and closing a project on time and within budget. They also lead the project team, manage risks, and communicate with stakeholders. 
+-A project manager's responsibilities include planning, executing, and closing a project on time and within budget. They also lead the project team, manage risks, and communicate with stakeholders.
+
 -A software developers create, update, and maintain systems for businesses,Developer programmers build, maintain and modify software code,Technical developers design, code, test, debug, deploy, and maintain software applications
+
 -A Quality Assurance (QA) Engineer is responsible for designing test plans, executing tests, documenting bugs, and collaborating with the development team to maintain high quality standards across the product development process. 
 
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
